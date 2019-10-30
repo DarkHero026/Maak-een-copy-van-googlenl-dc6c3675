@@ -50,7 +50,7 @@ body{
     color: #ffffff;
 }
 #text:focus{
-    border: solid;
+    outline: solid;
     border-color: #141d26;
 
 }
